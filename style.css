@@ -1,11 +1,16 @@
-h1, h2, h3 {
+h1, h2, h3  {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a, p   {
+h1  {
+    color: red;
+    text-transform: uppercase;
+}
+
+a, p    {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-ul, ol{
+ul, ol  {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
